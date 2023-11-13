@@ -12,6 +12,8 @@ class TelegramSender:
             print(f"Error sending message: {e}")
 
 
+# Usage Example
+
 if __name__ == "__main__":
     import asyncio
 
